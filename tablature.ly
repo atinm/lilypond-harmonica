@@ -1,7 +1,7 @@
 
 \version "2.22.0"
 
-\include "harmonica.ly"
+\include "harmonica-powerbender.ly"
 \include "style.ly"
 
 chromaticScale = {
